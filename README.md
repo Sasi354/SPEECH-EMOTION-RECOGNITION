@@ -4,8 +4,7 @@
 
 1.[vsCodeIDE](https://code.visualstudio.com/)
 
-2.[gitCLI](https://git-scm.com/book/en/v2/Getting-Started-The
--Command-Line)
+2.[gitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
 3.[Pandas](https://pandas.pydata.org/)
 
